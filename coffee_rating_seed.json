@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Roast 1",
+    "origin": "Brazil",
+    "roast": "Medium",
+    "rating": 3.5,
+    "votes": 23
+  },
+  {
+    "id": 2,
+    "name": "Sample Roast 2",
+    "origin": "Colombia",
+    "roast": "Medium",
+    "rating": 4.7,
+    "votes": 161
+  },
+  {
+    "id": 3,
+    "name": "Sample Roast 3",
+    "origin": "Brazil",
+    "roast": "Dark",
+    "rating": 4.7,
+    "votes": 78
+  },
+  {
+    "id": 4,
+    "name": "Sample Roast 4",
+    "origin": "Brazil",
+    "roast": "Light",
+    "rating": 3.3,
+    "votes": 117
+  },
+  {
+    "id": 5,
+    "name": "Sample Roast 5",
+    "origin": "Colombia",
+    "roast": "Dark",
+    "rating": 4.7,
+    "votes": 68
+  },
+  {
+    "id": 6,
+    "name": "Sample Roast 6",
+    "origin": "Brazil",
+    "roast": "Medium",
+    "rating": 4.3,
+    "votes": 82
+  },
+  {
+    "id": 7,
+    "name": "Sample Roast 7",
+    "origin": "Colombia",
+    "roast": "Light",
+    "rating": 4.6,
+    "votes": 115
+  },
+  {
+    "id": 8,
+    "name": "Sample Roast 8",
+    "origin": "Brazil",
+    "roast": "Light",
+    "rating": 4.4,
+    "votes": 169
+  },
+  {
+    "id": 9,
+    "name": "Sample Roast 9",
+    "origin": "Colombia",
+    "roast": "Dark",
+    "rating": 4.0,
+    "votes": 113
+  },
+  {
+    "id": 10,
+    "name": "Sample Roast 10",
+    "origin": "Ethiopia",
+    "roast": "Medium",
+    "rating": 4.8,
+    "votes": 50
+  },
+  {
+    "id": 11,
+    "name": "Sample Roast 11",
+    "origin": "India",
+    "roast": "Medium",
+    "rating": 4.3,
+    "votes": 88
+  },
+  {
+    "id": 12,
+    "name": "Sample Roast 12",
+    "origin": "India",
+    "roast": "Dark",
+    "rating": 4.7,
+    "votes": 128
+  },
+  {
+    "id": 13,
+    "name": "Sample Roast 13",
+    "origin": "Ethiopia",
+    "roast": "Medium",
+    "rating": 2.9,
+    "votes": 172
+  },
+  {
+    "id": 14,
+    "name": "Sample Roast 14",
+    "origin": "Colombia",
+    "roast": "Light",
+    "rating": 4.4,
+    "votes": 106
+  },
+  {
+    "id": 15,
+    "name": "Sample Roast 15",
+    "origin": "India",
+    "roast": "Medium",
+    "rating": 4.5,
+    "votes": 82
+  },
+  {
+    "id": 16,
+    "name": "Sample Roast 16",
+    "origin": "Ethiopia",
+    "roast": "Dark",
+    "rating": 4.4,
+    "votes": 177
+  },
+  {
+    "id": 17,
+    "name": "Sample Roast 17",
+    "origin": "Colombia",
+    "roast": "Light",
+    "rating": 4.7,
+    "votes": 152
+  },
+  {
+    "id": 18,
+    "name": "Sample Roast 18",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 4.2,
+    "votes": 111
+  },
+  {
+    "id": 19,
+    "name": "Sample Roast 19",
+    "origin": "Brazil",
+    "roast": "Medium",
+    "rating": 3.0,
+    "votes": 147
+  },
+  {
+    "id": 20,
+    "name": "Sample Roast 20",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 3.4,
+    "votes": 35
+  },
+  {
+    "id": 21,
+    "name": "Sample Roast 21",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 4.2,
+    "votes": 95
+  },
+  {
+    "id": 22,
+    "name": "Sample Roast 22",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 3.6,
+    "votes": 178
+  },
+  {
+    "id": 23,
+    "name": "Sample Roast 23",
+    "origin": "India",
+    "roast": "Medium",
+    "rating": 3.7,
+    "votes": 176
+  },
+  {
+    "id": 24,
+    "name": "Sample Roast 24",
+    "origin": "Brazil",
+    "roast": "Dark",
+    "rating": 4.4,
+    "votes": 99
+  },
+  {
+    "id": 25,
+    "name": "Sample Roast 25",
+    "origin": "Ethiopia",
+    "roast": "Dark",
+    "rating": 3.3,
+    "votes": 48
+  },
+  {
+    "id": 26,
+    "name": "Sample Roast 26",
+    "origin": "Colombia",
+    "roast": "Medium",
+    "rating": 3.3,
+    "votes": 119
+  },
+  {
+    "id": 27,
+    "name": "Sample Roast 27",
+    "origin": "Colombia",
+    "roast": "Dark",
+    "rating": 3.1,
+    "votes": 163
+  },
+  {
+    "id": 28,
+    "name": "Sample Roast 28",
+    "origin": "Colombia",
+    "roast": "Medium",
+    "rating": 3.5,
+    "votes": 15
+  },
+  {
+    "id": 29,
+    "name": "Sample Roast 29",
+    "origin": "Colombia",
+    "roast": "Medium",
+    "rating": 3.4,
+    "votes": 91
+  },
+  {
+    "id": 30,
+    "name": "Sample Roast 30",
+    "origin": "India",
+    "roast": "Medium",
+    "rating": 3.4,
+    "votes": 72
+  },
+  {
+    "id": 31,
+    "name": "Sample Roast 31",
+    "origin": "Ethiopia",
+    "roast": "Light",
+    "rating": 3.4,
+    "votes": 168
+  },
+  {
+    "id": 32,
+    "name": "Sample Roast 32",
+    "origin": "Colombia",
+    "roast": "Light",
+    "rating": 3.7,
+    "votes": 43
+  },
+  {
+    "id": 33,
+    "name": "Sample Roast 33",
+    "origin": "Colombia",
+    "roast": "Light",
+    "rating": 3.2,
+    "votes": 40
+  },
+  {
+    "id": 34,
+    "name": "Sample Roast 34",
+    "origin": "Ethiopia",
+    "roast": "Medium",
+    "rating": 4.7,
+    "votes": 180
+  },
+  {
+    "id": 35,
+    "name": "Sample Roast 35",
+    "origin": "Brazil",
+    "roast": "Dark",
+    "rating": 3.2,
+    "votes": 121
+  },
+  {
+    "id": 36,
+    "name": "Sample Roast 36",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 3.8,
+    "votes": 60
+  },
+  {
+    "id": 37,
+    "name": "Sample Roast 37",
+    "origin": "Brazil",
+    "roast": "Light",
+    "rating": 4.3,
+    "votes": 63
+  },
+  {
+    "id": 38,
+    "name": "Sample Roast 38",
+    "origin": "Ethiopia",
+    "roast": "Dark",
+    "rating": 4.9,
+    "votes": 27
+  },
+  {
+    "id": 39,
+    "name": "Sample Roast 39",
+    "origin": "Brazil",
+    "roast": "Medium",
+    "rating": 4.2,
+    "votes": 111
+  },
+  {
+    "id": 40,
+    "name": "Sample Roast 40",
+    "origin": "Ethiopia",
+    "roast": "Light",
+    "rating": 4.8,
+    "votes": 147
+  },
+  {
+    "id": 41,
+    "name": "Sample Roast 41",
+    "origin": "Ethiopia",
+    "roast": "Light",
+    "rating": 4.2,
+    "votes": 104
+  },
+  {
+    "id": 42,
+    "name": "Sample Roast 42",
+    "origin": "Ethiopia",
+    "roast": "Dark",
+    "rating": 4.4,
+    "votes": 60
+  },
+  {
+    "id": 43,
+    "name": "Sample Roast 43",
+    "origin": "Ethiopia",
+    "roast": "Dark",
+    "rating": 3.9,
+    "votes": 123
+  },
+  {
+    "id": 44,
+    "name": "Sample Roast 44",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 3.7,
+    "votes": 78
+  },
+  {
+    "id": 45,
+    "name": "Sample Roast 45",
+    "origin": "Brazil",
+    "roast": "Dark",
+    "rating": 2.9,
+    "votes": 3
+  },
+  {
+    "id": 46,
+    "name": "Sample Roast 46",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 3.0,
+    "votes": 146
+  },
+  {
+    "id": 47,
+    "name": "Sample Roast 47",
+    "origin": "Brazil",
+    "roast": "Dark",
+    "rating": 4.5,
+    "votes": 33
+  },
+  {
+    "id": 48,
+    "name": "Sample Roast 48",
+    "origin": "Colombia",
+    "roast": "Medium",
+    "rating": 2.9,
+    "votes": 112
+  },
+  {
+    "id": 49,
+    "name": "Sample Roast 49",
+    "origin": "Ethiopia",
+    "roast": "Dark",
+    "rating": 3.5,
+    "votes": 4
+  },
+  {
+    "id": 50,
+    "name": "Sample Roast 50",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 4.2,
+    "votes": 149
+  },
+  {
+    "id": 51,
+    "name": "Sample Roast 51",
+    "origin": "Ethiopia",
+    "roast": "Light",
+    "rating": 4.5,
+    "votes": 42
+  },
+  {
+    "id": 52,
+    "name": "Sample Roast 52",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 3.8,
+    "votes": 151
+  },
+  {
+    "id": 53,
+    "name": "Sample Roast 53",
+    "origin": "Ethiopia",
+    "roast": "Medium",
+    "rating": 3.0,
+    "votes": 86
+  },
+  {
+    "id": 54,
+    "name": "Sample Roast 54",
+    "origin": "Brazil",
+    "roast": "Medium",
+    "rating": 3.5,
+    "votes": 48
+  },
+  {
+    "id": 55,
+    "name": "Sample Roast 55",
+    "origin": "Brazil",
+    "roast": "Dark",
+    "rating": 2.8,
+    "votes": 90
+  },
+  {
+    "id": 56,
+    "name": "Sample Roast 56",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 4.6,
+    "votes": 50
+  },
+  {
+    "id": 57,
+    "name": "Sample Roast 57",
+    "origin": "India",
+    "roast": "Light",
+    "rating": 3.1,
+    "votes": 118
+  },
+  {
+    "id": 58,
+    "name": "Sample Roast 58",
+    "origin": "Brazil",
+    "roast": "Medium",
+    "rating": 3.2,
+    "votes": 82
+  },
+  {
+    "id": 59,
+    "name": "Sample Roast 59",
+    "origin": "Colombia",
+    "roast": "Light",
+    "rating": 4.7,
+    "votes": 114
+  },
+  {
+    "id": 60,
+    "name": "Sample Roast 60",
+    "origin": "India",
+    "roast": "Dark",
+    "rating": 4.5,
+    "votes": 175
+  }
+]

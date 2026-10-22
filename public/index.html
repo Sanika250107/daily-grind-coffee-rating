@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#24170f">
+  <title>Daily Grind — Coffee Ratings</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#"><span class="brand-mark">☕</span><span>daily<span class="brand-light">grind</span></span></a>
+    <nav><a href="#discover">Discover</a><a href="#leaderboard">Leaderboard</a></nav>
+    <span class="live"><i></i> Live community ratings</span>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">GOOD COFFEE. GREAT COMMUNITY.</p>
+        <h1>Find your next<br><em>favorite roast.</em></h1>
+        <p class="hero-text">Explore blends from around the world. Taste with your eyes, rate your favorites, and help the community find its perfect cup.</p>
+        <a class="primary-link" href="#discover">Explore the blends <span>↘</span></a>
+      </div>
+      <div class="hero-art" aria-label="Illustration of a cup of coffee">
+        <div class="sun"></div><div class="steam steam-one"></div><div class="steam steam-two"></div>
+        <div class="coffee-beans bean-one"></div><div class="coffee-beans bean-two"></div>
+        <div class="cup"><div class="coffee"></div><div class="cup-handle"></div></div>
+        <div class="saucer"></div>
+        <span class="art-label">YOUR DAILY<br>RITUAL</span>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="Community statistics">
+      <div><strong id="coffee-count">60</strong><span>Blends to explore</span></div>
+      <div><strong id="vote-count">—</strong><span>Community votes</span></div>
+      <div><strong id="top-score">—</strong><span>Highest rated</span></div>
+    </section>
+
+    <section id="discover" class="section-heading">
+      <div><p class="eyebrow">THE COLLECTION</p><h2>Explore the blends</h2><p class="muted">Which one deserves your five stars?</p></div>
+      <div class="filters">
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search coffee, origin…" aria-label="Search coffee"></label>
+        <select id="roast-filter" aria-label="Filter by roast"><option>All</option><option>Light</option><option>Medium</option><option>Dark</option></select>
+      </div>
+    </section>
+
+    <section id="coffee-grid" class="coffee-grid" aria-live="polite">
+      <div class="loading">Brewing the collection…</div>
+    </section>
+    <div class="load-row"><span id="results-label"></span><button id="show-more" class="secondary-btn" hidden>Show more blends ↓</button></div>
+
+    <section id="leaderboard" class="leaderboard-section">
+      <div class="leader-copy"><p class="eyebrow">THE PEOPLE HAVE SPOKEN</p><h2>Community<br><em>favorites.</em></h2><p class="muted">The highest-rated cups, according to coffee lovers like you.</p></div>
+      <div id="leaderboard-list" class="leaderboard-list"><div class="loading">Loading leaderboard…</div></div>
+    </section>
+    <p class="notice" id="notice" role="status"></p>
+  </main>
+  <footer><a class="brand" href="#"><span class="brand-mark">☕</span><span>daily<span class="brand-light">grind</span></span></a><span>Made for people who take their coffee seriously.</span><span>One cup at a time.</span></footer>
+  <script src="/app.js"></script>
+</body>
+</html>
